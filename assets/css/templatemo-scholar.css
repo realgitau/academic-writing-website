@@ -1060,6 +1060,10 @@ Courses Style
   margin-bottom: 6px;
 }
 
+.author img{
+  object-fit: cover;
+}
+
 .events_item .down-content h4 {
   font-size: 22px;
   font-weight: 600;
